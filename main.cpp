@@ -42,6 +42,8 @@ class Stack{
             return arr[top];
             
             }
+
+            return T();
         }
         
         bool isEmpty(){
